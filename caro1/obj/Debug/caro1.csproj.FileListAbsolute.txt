@@ -1,0 +1,10 @@
+C:\Visual Studio\caro1\caro1\bin\Debug\caro1.exe.config
+C:\Visual Studio\caro1\caro1\bin\Debug\caro1.exe
+C:\Visual Studio\caro1\caro1\bin\Debug\caro1.pdb
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.csproj.AssemblyReference.cache
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.Form1.resources
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.Properties.Resources.resources
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.csproj.GenerateResource.cache
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.csproj.CoreCompileInputs.cache
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.exe
+C:\Visual Studio\caro1\caro1\obj\Debug\caro1.pdb
